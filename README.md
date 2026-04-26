@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-![3x3 LED Cube](led-cube.jpg)
+![3x3 LED Cube](led.png)
 
 ---
 
